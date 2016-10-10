@@ -13,3 +13,4 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 | Completar los metodos indicados en la [Main Activity](https://github.com/UG-Mobile2016/TipCalc/blob/master/app/src/main/java/me/juancrg90/tipcalc/MainActivity.java) de la calculadora de propinas | 10 de octubre de 2016 |
 |Repasar El uso de  Fragments | 10 de octubre de 2016 |
 |Investigar como funciona el Recicler View **Se deberará subir reporte a github** | 10 de octubre de 2016 |
+|Investigar los SOLID principies y escribir un reporte de estos| 17 de octubre de 2016 |
