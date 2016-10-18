@@ -14,3 +14,5 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 |Repasar El uso de  Fragments | 10 de octubre de 2016 |
 |Investigar como funciona el Recicler View **Se deberará subir reporte a github** | 10 de octubre de 2016 |
 |Investigar los SOLID principies y escribir un reporte de estos| 17 de octubre de 2016 |
+|Crear el metodo  **handleClickClear** el cual se encargará de limpiar RecyclerView| 24 de octubre de 2016|
+|Crear una cuenta en https://firebase.google.com/ | 27 de octubre de 2016|
