@@ -16,3 +16,4 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 |Investigar los SOLID principies y escribir un reporte de estos| 17 de octubre de 2016 |
 |Crear el metodo  **handleClickClear** el cual se encargará de limpiar RecyclerView| 24 de octubre de 2016|
 |Crear una cuenta en https://firebase.google.com/ | 27 de octubre de 2016|
+|Completar la aplicación de tip calc para que al dar click en un elemento de la lista muestre una nueva actividad con el detalle de la propina| 27 de octubre de 2016|
