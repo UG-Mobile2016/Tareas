@@ -17,3 +17,5 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 |Crear el metodo  **handleClickClear** el cual se encargará de limpiar RecyclerView| 24 de octubre de 2016|
 |Crear una cuenta en https://firebase.google.com/ | 27 de octubre de 2016|
 |Completar la aplicación de tip calc para que al dar click en un elemento de la lista muestre una nueva actividad con el detalle de la propina| 27 de octubre de 2016|
+|Tarea Invertir el orden del resultado de la query|14 de noviembre de 2016|
+|Tarea Modificar método Clear para que elimine los registros de la base de datos|14 de noviembre de 2016|
