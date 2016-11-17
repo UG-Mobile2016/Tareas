@@ -22,4 +22,4 @@ Las tareas del curso son un requisito obligatorio para poder presentar exámenes
 |Tarea Investigar más a detalle en que consiste la Arquitectura Model View Presenter y como se diferencia del Model View Controller.| 20 de noviembre de 2016|
 |Tarea Investigar más a detalle la arquitectura CLEAN (Uncle Bob)|20 de noviembre de 2016|
 |Tarea Investigar la biblioteca EventBus y como esta nos ayuda a comunicarnos dentro de nuestra aplicación|20 de noviembre de 2016|
-
+|Tarea Leer la documentación de base de datos de firebase| 20 de noviembre de 2016|
